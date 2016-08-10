@@ -1,13 +1,13 @@
 # Ant For Building Animation_Alpah_0.1.0, maxscirpt
 
-
+![Alt text](/img/GetDuplication.png?raw=true "GetMeshByFourPoints")
 ![Alt text](/img/Ants[Development]_400_01.png?raw=true "img")
 ![Alt text](/img/Ants[Development]_400_02.png?raw=true "img")
 
 [![YouTube ](/img/Ants[Development]_400_01.png)(http://www.njstudio.co.kr/main/project/2013_Ants[Development]/2013_Ants[Development].html) 
 [![YouTube ](/img/Ants[Development]_400_02.png)(http://www.njstudio.co.kr/main/project/2013_Ants[Development]/2013_Ants[Development].html) 
 
-[a link](http://www.njstudio.co.kr/main/project/2013_Ants[Development]/2013_Ants[Development].html)
+[the web link](http://www.njstudio.co.kr/main/project/2013_Ants[Development]/2013_Ants[Development].html)
 
 
 ### info
